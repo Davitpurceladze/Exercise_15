@@ -5,5 +5,9 @@
     <color name="conversation_background_gradient_start">#22343C</color>
     <color name="conversation_background_gradient_end">#22343C</color>
     <color name="light_green">#40DF9F</color>
+    <color name="gray">#96A7AF</color>
+    #1A282F
+    <color name="dark_gray">#1A282F</color>
+
 
 </resources>
